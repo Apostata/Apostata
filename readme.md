@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Rene. Married with 2 daughters.<br>I have a degree in graphic design since 2005.<br>I've been working as a developer since 2007, working mainly with Front End since 2010 because it's close to my training, but I'm interested and willing to learn back end as well<br>I like to learn new technologies and programming languages<br><br><br>- 🔭 I’m working as Sr. front end developer<br>- 📚 I'm currently learning game dev<br>- ⚡ In my free time I spend my time with my family and study singing classes</p>
+<p align="left">I'm Rene. Married, with 2 daughters.<br>I have a degree in graphic design since 2005.<br>I've been working as a developer since 2007, working mainly with Front End since 2010 because it's close to my training, but I'm interested and willing to learn back end as well<br>I like to learn new technologies and programming languages<br><br><br>- 🔭 I’m working as Sr. front end developer<br>- 📚 I'm currently learning game dev<br>- ⚡ In my free time I spend my time with my family and study singing classes</p>
 
 ###
 
